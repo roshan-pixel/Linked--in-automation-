@@ -32,7 +32,7 @@ linkedin_scheduler.py
 │   ├── inject post text (fill + execCommand fallback)
 │   ├── open clock / schedule dialog
 │   ├── set date via React native property setter (MM/DD/YYYY)
-│   ├── set time (default: 12:00 PM)
+│   ├── set time (default: 12:00 PM or custom post_time)
 │   └── Confirm → Schedule
 └── verify_queue()             ← re-reads queue, prints status table
 ```
@@ -44,7 +44,7 @@ LinkedIn's date picker is a React-controlled `<input>`. Setting `.value` directl
 ```python
 # React-aware value injection (bypasses synthetic event sandbox)
 nativeSetter = Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set
-nativeSetter.call(input, '10/02/2026')
+nativeSetter.call(input, '10/10/2026')
 input.dispatchEvent(new Event('input', { bubbles: true }))
 input.dispatchEvent(new Event('change', { bubbles: true }))
 input.dispatchEvent(new Event('blur', { bubbles: true }))
@@ -63,8 +63,14 @@ input.dispatchEvent(new Event('blur', { bubbles: true }))
 
 ### 2. Run
 
+To run the full campaign:
 ```bash
 python linkedin_scheduler.py
+```
+
+To schedule a dedicated single post (e.g. Oct 10 at 6:00 PM):
+```bash
+python schedule_oct10.py
 ```
 
 The script will:
@@ -74,20 +80,21 @@ The script will:
 
 ---
 
-## 📅 10-Day Campaign (Sep 28 – Oct 7, 2026)
+## 📅 Campaign Schedule (Sep 28 – Oct 10, 2026)
 
-| Day | Date | Repo |
-|-----|------|------|
-| 1 | Sep 28 | [AUTO-MATIC-MAIL-AGENT-](https://github.com/roshan-pixel/AUTO-MATIC-MAIL-AGENT-) |
-| 2 | Sep 29 | [WinClaw](https://github.com/roshan-pixel/winclaw) |
-| 3 | Sep 30 | [Hermes WhatsApp AI Agent on GCP VM](https://github.com/roshan-pixel/-Hermes-WhatsApp-AI-Agent-on-Google-Cloud-VM) |
-| 4 | Oct 1  | [-ledger_web](https://github.com/roshan-pixel/-ledger_web) |
-| 5 | Oct 2  | [WhatsApp-Web-Session-to-Google-Sheets](https://github.com/roshan-pixel/WhatsApp-Web-Session-to-Google-Sheets-Automation-Bot) |
-| 6 | Oct 3  | [Asclepius-Portal-Synchronizer](https://github.com/roshan-pixel/Asclepius-Wellness-Portal-to-Google-Sheets-Synchronizer-MLM-Ledger) |
-| 7 | Oct 4  | [TODOBAR](https://github.com/roshan-pixel/TODOBAR----DSKTOP----NPM) |
-| 8 | Oct 5  | [linkedin-post-scraper-json](https://github.com/roshan-pixel/linkedin-post-scraper-json) |
-| 9 | Oct 6  | [Local-Spending](https://github.com/roshan-pixel/Local-Spending) |
-| 10 | Oct 7 | [Linked--in-automation-](https://github.com/roshan-pixel/Linked--in-automation-) |
+| Day | Date | Time | Repo / Topic |
+|-----|------|------|--------------|
+| 1 | Sep 28 | 12:00 PM | [AUTO-MATIC-MAIL-AGENT-](https://github.com/roshan-pixel/AUTO-MATIC-MAIL-AGENT-) |
+| 2 | Sep 29 | 12:00 PM | [WinClaw](https://github.com/roshan-pixel/winclaw) |
+| 3 | Sep 30 | 12:00 PM | [Hermes WhatsApp AI Agent on GCP VM](https://github.com/roshan-pixel/-Hermes-WhatsApp-AI-Agent-on-Google-Cloud-VM) |
+| 4 | Oct 1  | 12:00 PM | [-ledger_web](https://github.com/roshan-pixel/-ledger_web) |
+| 5 | Oct 2  | 12:00 PM | [WhatsApp-Web-Session-to-Google-Sheets](https://github.com/roshan-pixel/WhatsApp-Web-Session-to-Google-Sheets-Automation-Bot) |
+| 6 | Oct 3  | 12:00 PM | [Asclepius-Portal-Synchronizer](https://github.com/roshan-pixel/Asclepius-Wellness-Portal-to-Google-Sheets-Synchronizer-MLM-Ledger) |
+| 7 | Oct 4  | 12:00 PM | [TODOBAR](https://github.com/roshan-pixel/TODOBAR----DSKTOP----NPM) |
+| 8 | Oct 5  | 12:00 PM | [linkedin-post-scraper-json](https://github.com/roshan-pixel/linkedin-post-scraper-json) |
+| 9 | Oct 6  | 12:00 PM | [Local-Spending](https://github.com/roshan-pixel/Local-Spending) |
+| 10 | Oct 7 | 12:00 PM | [Linked--in-automation-](https://github.com/roshan-pixel/Linked--in-automation-) |
+| 11 | Oct 10 | 06:00 PM | **10-Day Technical Showcase Grand Finale & Complete Recap** |
 
 ---
 
@@ -106,11 +113,12 @@ To add/edit posts, modify the `CAMPAIGN` list — each entry has:
 
 ```python
 {
-    "day":        1,              # display only
-    "date_input": "09/28/2026",  # MM/DD/YYYY — fed to React input
-    "date_label": "Sep 28, 2026",# human-readable label
-    "title":      "...",         # log only
-    "content":    "...",         # full post text
+    "day":        11,              # display only
+    "date_input": "10/10/2026",   # MM/DD/YYYY — fed to React input
+    "date_label": "Oct 10, 2026", # human-readable label
+    "post_time":  "06:00 PM",     # optional post time override
+    "title":      "...",          # log only
+    "content":    "...",          # full post text
 }
 ```
 
@@ -124,6 +132,7 @@ To add/edit posts, modify the `CAMPAIGN` list — each entry has:
 | Multiple posts landing on same date | `fetch_scheduled_queue()` reads live queue first; duplicates skipped |
 | WebBridge 502 transient error | `MAX_STEP_RETRIES = 3` retries each step |
 | React event sandbox blocks `.value =` | `Object.getOwnPropertyDescriptor(HTMLInputElement.prototype, 'value').set` |
+| Custom time per post (e.g. 6:00 PM) | Supported via `post_time` override and native setter on time picker |
 | Session expired | Script navigates feed and checks URL; fails fast with clear error |
 
 ---
@@ -132,10 +141,11 @@ To add/edit posts, modify the `CAMPAIGN` list — each entry has:
 
 | File | Purpose |
 |---|---|
-| `linkedin_scheduler.py` | **Main script** — smart auto-detect scheduler |
+| `linkedin_scheduler.py` | **Main script** — smart auto-detect scheduler for 11-post campaign |
+| `schedule_oct10.py` | Dedicated standalone scheduler for Oct 10, 2026 at 6:00 PM |
 | `linkedin_automation.py` | Legacy engine (CDP mouse click approach) |
-| `run_full_schedule.py` | Earlier 10-day batch scheduler (calendar nav approach) |
-| `schedule_remaining_direct.py` | Direct date-input scheduler for remaining days |
+| `run_full_schedule.py` | 10-day batch scheduler (calendar nav approach) |
+| `schedule_remaining_direct.py` | Direct date-input scheduler for Days 5/6/10 |
 
 ---
 

@@ -228,6 +228,31 @@ CAMPAIGN = [
             "#BrowserAutomation #CDP #ChromeDevTools #LinkedInAutomation #Python #OpenSource #BuildInPublic"
         ),
     },
+    {
+        "day": 11,
+        "date_input": "10/10/2026",
+        "date_label": "Oct 10, 2026",
+        "post_time": "06:00 PM",
+        "title": "10-Day Technical Showcase Grand Finale & Complete Recap",
+        "content": (
+            "🔐 10 days of shipping. 10 open-source projects. Here's what I built.\n\n"
+            "Over the last 10 days I've been doing a deep-dive showcase of every repo I've shipped this year. "
+            "From autonomous email agents to AI security frameworks — here's the full lineup:\n\n"
+            "1️⃣ AUTO-MATIC-MAIL-AGENT — CDP-powered webmail automation\n"
+            "2️⃣ WinClaw — MCP AI framework for Windows native tools\n"
+            "3️⃣ Hermes — WhatsApp AI Agent on GCP VM\n"
+            "4️⃣ -ledger_web — Billing, inventory & C&F portal sync\n"
+            "5️⃣ WhatsApp-Web-to-Google-Sheets — Zero-database WhatsApp CRM\n"
+            "6️⃣ Asclepius Portal Sync — Enterprise ETL to Google Sheets\n"
+            "7️⃣ TODOBAR — Floating desktop task bar on NPM\n"
+            "8️⃣ linkedin-post-scraper-json — Structured feed telemetry\n"
+            "9️⃣ Local-Spending — Privacy-first personal finance analytics\n"
+            "🔟 Linked--in-automation- — This entire automated campaign engine 🤖\n\n"
+            "All 10 repos are open-source and linked in my profile.\n\n"
+            "Which one would you actually use? Drop it in the comments 👇\n\n"
+            "#OpenSource #BuildInPublic #Python #AI #SecurityResearch #GitHub #Automation"
+        ),
+    },
 ]
 
 # ──────────────────────────────────────────────────────────────────────────────
@@ -343,11 +368,12 @@ def schedule_post(post):
     day_num    = post["day"]
     date_input = post["date_input"]   # MM/DD/YYYY
     date_label = post["date_label"]   # human-readable for logging
+    post_time  = post.get("post_time", POST_TIME)
     title      = post["title"]
     content    = post["content"]
 
     print(f"\n{'='*65}", flush=True)
-    print(f"  📅 DAY {day_num}/10 → {date_label}  |  {title}", flush=True)
+    print(f"  📅 DAY {day_num} → {date_label} at {post_time}  |  {title}", flush=True)
     print(f"{'='*65}", flush=True)
 
     # ── 1. Navigate to LinkedIn feed ──────────────────────────────────────────
@@ -432,12 +458,13 @@ def schedule_post(post):
     clock_opened = False
     for attempt in range(MAX_STEP_RETRIES):
         evaluate("""(() => {
-            // Try clock SVG first
-            const clock = document.querySelector('svg#clock-medium, use[href*="clock"], use[xlink\\\\:href*="clock"]');
-            if (clock) { clock.closest('a, button').click(); return; }
-            // Fallback: button with aria-label containing "schedule"
-            const btn = Array.from(document.querySelectorAll('button, a'))
-                .find(b => (b.getAttribute('aria-label')||'').toLowerCase().includes('schedule'));
+            const clock = document.querySelector('svg#clock-medium');
+            if (clock) {
+                const parent = clock.closest('a, button');
+                if (parent) { parent.click(); return; }
+            }
+            const all = Array.from(document.querySelectorAll('button, a'));
+            const btn = all.find(b => b.querySelector('svg#clock-medium') || (b.getAttribute('aria-label')||'').toLowerCase().includes('schedule'));
             if (btn) btn.click();
         })()""")
         if wait_for(
@@ -471,12 +498,12 @@ def schedule_post(post):
         return False
     time.sleep(1)
 
-    # ── 5b. Set time (optional — ensure it's a reasonable slot) ──────────────
+    # ── 5b. Set time (Clock) ──────────────────────────────────────────────────
     time_res = evaluate(f"""(() => {{
         const input = document.querySelector('input[data-testid="time-picker-input"]');
         if (!input) return 'no_time_input';
         const nativeSetter = Object.getOwnPropertyDescriptor(window.HTMLInputElement.prototype, 'value').set;
-        nativeSetter.call(input, '{POST_TIME}');
+        nativeSetter.call(input, '{post_time}');
         input.dispatchEvent(new Event('input',  {{ bubbles: true }}));
         input.dispatchEvent(new Event('change', {{ bubbles: true }}));
         input.dispatchEvent(new Event('blur',   {{ bubbles: true }}));
@@ -504,16 +531,21 @@ def schedule_post(post):
         print("  ❌ Schedule button never appeared after Confirm", flush=True)
         return False
 
-    # Click Schedule
+    # Click Schedule via JS + MouseEvent
     evaluate("""(() => {
         const btn = Array.from(document.querySelectorAll('button'))
             .find(b => (b.innerText||'').trim() === 'Schedule' && b.offsetParent !== null);
-        if (btn) btn.click();
+        if (btn) {
+            btn.focus();
+            btn.dispatchEvent(new MouseEvent('mousedown', {bubbles: true, cancelable: true, view: window}));
+            btn.dispatchEvent(new MouseEvent('mouseup', {bubbles: true, cancelable: true, view: window}));
+            btn.click();
+        }
     })()""")
     print("      ✓ Schedule button clicked!", flush=True)
     time.sleep(4)
 
-    print(f"  🎉 SUCCESS — Day {day_num} posted for {date_label}!", flush=True)
+    print(f"  🎉 SUCCESS — Day {day_num} posted for {date_label} at {post_time}!", flush=True)
     return True
 
 # ──────────────────────────────────────────────────────────────────────────────
