@@ -1,0 +1,4086 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "cdp_get_schedule.py",
+      "file_type": "code",
+      "source_file": "cdp_get_schedule.py",
+      "source_location": "L1",
+      "id": "cdp_get_schedule_py",
+      "community": 25,
+      "norm_label": "cdp_get_schedule.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "cdp_get_schedule.py",
+      "source_location": "L9",
+      "id": "linked_in_automation_cdp_get_schedule_cmd",
+      "community": 25,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "check_schedule_now.py",
+      "file_type": "code",
+      "source_file": "check_schedule_now.py",
+      "source_location": "L1",
+      "id": "check_schedule_now_py",
+      "community": 13,
+      "norm_label": "check_schedule_now.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "check_schedule_now.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_check_schedule_now_cmd",
+      "community": 13,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "check_selected.py",
+      "file_type": "code",
+      "source_file": "check_selected.py",
+      "source_location": "L1",
+      "id": "check_selected_py",
+      "community": 26,
+      "norm_label": "check_selected.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "check_selected.py",
+      "source_location": "L7",
+      "id": "linked_in_automation_check_selected_cmd",
+      "community": 26,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "check_session.py",
+      "file_type": "code",
+      "source_file": "check_session.py",
+      "source_location": "L1",
+      "id": "check_session_py",
+      "community": 27,
+      "norm_label": "check_session.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "check_session.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_check_session_cmd",
+      "community": 27,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "check_targets.py",
+      "file_type": "code",
+      "source_file": "check_targets.py",
+      "source_location": "L1",
+      "id": "check_targets_py",
+      "community": 57,
+      "norm_label": "check_targets.py"
+    },
+    {
+      "label": "click_11_badge.py",
+      "file_type": "code",
+      "source_file": "click_11_badge.py",
+      "source_location": "L1",
+      "id": "click_11_badge_py",
+      "community": 14,
+      "norm_label": "click_11_badge.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "click_11_badge.py",
+      "source_location": "L9",
+      "id": "linked_in_automation_click_11_badge_cmd",
+      "community": 14,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "click_scheduled_tab.py",
+      "file_type": "code",
+      "source_file": "click_scheduled_tab.py",
+      "source_location": "L1",
+      "id": "click_scheduled_tab_py",
+      "community": 15,
+      "norm_label": "click_scheduled_tab.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "click_scheduled_tab.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_click_scheduled_tab_cmd",
+      "community": 15,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "click_schedule_native.py",
+      "file_type": "code",
+      "source_file": "click_schedule_native.py",
+      "source_location": "L1",
+      "id": "click_schedule_native_py",
+      "community": 28,
+      "norm_label": "click_schedule_native.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "click_schedule_native.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_click_schedule_native_cmd",
+      "community": 28,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "confirm_schedule.py",
+      "file_type": "code",
+      "source_file": "confirm_schedule.py",
+      "source_location": "L1",
+      "id": "confirm_schedule_py",
+      "community": 16,
+      "norm_label": "confirm_schedule.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "confirm_schedule.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_confirm_schedule_cmd",
+      "community": 16,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "debug_clock_btn.py",
+      "file_type": "code",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L1",
+      "id": "debug_clock_btn_py",
+      "community": 7,
+      "norm_label": "debug_clock_btn.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L9",
+      "id": "linked_in_automation_debug_clock_btn_cmd",
+      "community": 7,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "val()",
+      "file_type": "code",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L15",
+      "id": "linked_in_automation_debug_clock_btn_val",
+      "community": 7,
+      "norm_label": "val()"
+    },
+    {
+      "label": "evaluate()",
+      "file_type": "code",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L16",
+      "id": "linked_in_automation_debug_clock_btn_evaluate",
+      "community": 7,
+      "norm_label": "evaluate()"
+    },
+    {
+      "label": "wait_for()",
+      "file_type": "code",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L17",
+      "id": "linked_in_automation_debug_clock_btn_wait_for",
+      "community": 7,
+      "norm_label": "wait_for()"
+    },
+    {
+      "label": "Debug: find the schedule clock button in the compose modal",
+      "file_type": "rationale",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_debug_clock_btn_rationale_1",
+      "community": 7,
+      "norm_label": "debug: find the schedule clock button in the compose modal"
+    },
+    {
+      "label": "debug_day5.py",
+      "file_type": "code",
+      "source_file": "debug_day5.py",
+      "source_location": "L1",
+      "id": "debug_day5_py",
+      "community": 12,
+      "norm_label": "debug_day5.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "debug_day5.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_debug_day5_cmd",
+      "community": 12,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "wait_for_condition()",
+      "file_type": "code",
+      "source_file": "debug_day5.py",
+      "source_location": "L14",
+      "id": "linked_in_automation_debug_day5_wait_for_condition",
+      "community": 12,
+      "norm_label": "wait_for_condition()"
+    },
+    {
+      "label": "debug_day5_state.py",
+      "file_type": "code",
+      "source_file": "debug_day5_state.py",
+      "source_location": "L1",
+      "id": "debug_day5_state_py",
+      "community": 17,
+      "norm_label": "debug_day5_state.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "debug_day5_state.py",
+      "source_location": "L7",
+      "id": "linked_in_automation_debug_day5_state_cmd",
+      "community": 17,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "debug_inputs.py",
+      "file_type": "code",
+      "source_file": "debug_inputs.py",
+      "source_location": "L1",
+      "id": "debug_inputs_py",
+      "community": 29,
+      "norm_label": "debug_inputs.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "debug_inputs.py",
+      "source_location": "L7",
+      "id": "linked_in_automation_debug_inputs_cmd",
+      "community": 29,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "debug_picker.py",
+      "file_type": "code",
+      "source_file": "debug_picker.py",
+      "source_location": "L1",
+      "id": "debug_picker_py",
+      "community": 30,
+      "norm_label": "debug_picker.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "debug_picker.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_debug_picker_cmd",
+      "community": 30,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "dump_scheduled.py",
+      "file_type": "code",
+      "source_file": "dump_scheduled.py",
+      "source_location": "L1",
+      "id": "dump_scheduled_py",
+      "community": 31,
+      "norm_label": "dump_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "dump_scheduled.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_dump_scheduled_cmd",
+      "community": 31,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "execute_oct10_complete.py",
+      "file_type": "code",
+      "source_file": "execute_oct10_complete.py",
+      "source_location": "L1",
+      "id": "execute_oct10_complete_py",
+      "community": 18,
+      "norm_label": "execute_oct10_complete.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "execute_oct10_complete.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_execute_oct10_complete_cmd",
+      "community": 18,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "find_editor_and_post.py",
+      "file_type": "code",
+      "source_file": "find_editor_and_post.py",
+      "source_location": "L1",
+      "id": "find_editor_and_post_py",
+      "community": 32,
+      "norm_label": "find_editor_and_post.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "find_editor_and_post.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_find_editor_and_post_cmd",
+      "community": 32,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "find_scheduled_tab.py",
+      "file_type": "code",
+      "source_file": "find_scheduled_tab.py",
+      "source_location": "L1",
+      "id": "find_scheduled_tab_py",
+      "community": 19,
+      "norm_label": "find_scheduled_tab.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "find_scheduled_tab.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_find_scheduled_tab_cmd",
+      "community": 19,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "get_full_schedule.py",
+      "file_type": "code",
+      "source_file": "get_full_schedule.py",
+      "source_location": "L1",
+      "id": "get_full_schedule_py",
+      "community": 20,
+      "norm_label": "get_full_schedule.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "get_full_schedule.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_get_full_schedule_cmd",
+      "community": 20,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "inspect_delete_buttons.py",
+      "file_type": "code",
+      "source_file": "inspect_delete_buttons.py",
+      "source_location": "L1",
+      "id": "inspect_delete_buttons_py",
+      "community": 21,
+      "norm_label": "inspect_delete_buttons.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "inspect_delete_buttons.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_inspect_delete_buttons_cmd",
+      "community": 21,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "inspect_dialog.py",
+      "file_type": "code",
+      "source_file": "inspect_dialog.py",
+      "source_location": "L1",
+      "id": "inspect_dialog_py",
+      "community": 22,
+      "norm_label": "inspect_dialog.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "inspect_dialog.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_inspect_dialog_cmd",
+      "community": 22,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "inspect_modal_btns.py",
+      "file_type": "code",
+      "source_file": "inspect_modal_btns.py",
+      "source_location": "L1",
+      "id": "inspect_modal_btns_py",
+      "community": 23,
+      "norm_label": "inspect_modal_btns.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "inspect_modal_btns.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_inspect_modal_btns_cmd",
+      "community": 23,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "inspect_pickers.py",
+      "file_type": "code",
+      "source_file": "inspect_pickers.py",
+      "source_location": "L1",
+      "id": "inspect_pickers_py",
+      "community": 33,
+      "norm_label": "inspect_pickers.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "inspect_pickers.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_inspect_pickers_cmd",
+      "community": 33,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "inspect_scheduled.py",
+      "file_type": "code",
+      "source_file": "inspect_scheduled.py",
+      "source_location": "L1",
+      "id": "inspect_scheduled_py",
+      "community": 24,
+      "norm_label": "inspect_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "inspect_scheduled.py",
+      "source_location": "L7",
+      "id": "linked_in_automation_inspect_scheduled_cmd",
+      "community": 24,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "linkedin_automation.py",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L1",
+      "id": "linkedin_automation_py",
+      "community": 3,
+      "norm_label": "linkedin_automation.py"
+    },
+    {
+      "label": "api_call()",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L44",
+      "id": "linked_in_automation_linkedin_automation_api_call",
+      "community": 3,
+      "norm_label": "api_call()"
+    },
+    {
+      "label": "cdp_eval()",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L51",
+      "id": "linked_in_automation_linkedin_automation_cdp_eval",
+      "community": 3,
+      "norm_label": "cdp_eval()"
+    },
+    {
+      "label": "cdp_mouse_click()",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L56",
+      "id": "linked_in_automation_linkedin_automation_cdp_mouse_click",
+      "community": 3,
+      "norm_label": "cdp_mouse_click()"
+    },
+    {
+      "label": "find_ref_contain()",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L64",
+      "id": "linked_in_automation_linkedin_automation_find_ref_contain",
+      "community": 3,
+      "norm_label": "find_ref_contain()"
+    },
+    {
+      "label": "schedule_linkedin_post()",
+      "file_type": "code",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L80",
+      "id": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "community": 3,
+      "norm_label": "schedule_linkedin_post()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_linkedin_automation_rationale_1",
+      "community": 3,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "Sends JSON-RPC commands to Kimi WebBridge daemon.",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L45",
+      "id": "linked_in_automation_linkedin_automation_rationale_45",
+      "community": 3,
+      "norm_label": "sends json-rpc commands to kimi webbridge daemon."
+    },
+    {
+      "label": "Evaluates JavaScript expression in Chrome DevTools Protocol context.",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L52",
+      "id": "linked_in_automation_linkedin_automation_rationale_52",
+      "community": 3,
+      "norm_label": "evaluates javascript expression in chrome devtools protocol context."
+    },
+    {
+      "label": "Dispatches trusted mouse pointer events via CDP.",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L57",
+      "id": "linked_in_automation_linkedin_automation_rationale_57",
+      "community": 3,
+      "norm_label": "dispatches trusted mouse pointer events via cdp."
+    },
+    {
+      "label": "Traverses WebBridge accessibility tree to find matching element reference.",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L65",
+      "id": "linked_in_automation_linkedin_automation_rationale_65",
+      "community": 3,
+      "norm_label": "traverses webbridge accessibility tree to find matching element reference."
+    },
+    {
+      "label": "Schedules a single LinkedIn post for a target date and time.",
+      "file_type": "rationale",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L81",
+      "id": "linked_in_automation_linkedin_automation_rationale_81",
+      "community": 3,
+      "norm_label": "schedules a single linkedin post for a target date and time."
+    },
+    {
+      "label": "linkedin_scheduler.py",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L1",
+      "id": "linkedin_scheduler_py",
+      "community": 1,
+      "norm_label": "linkedin_scheduler.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L261",
+      "id": "linked_in_automation_linkedin_scheduler_cmd",
+      "community": 1,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "evaluate()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L267",
+      "id": "linked_in_automation_linkedin_scheduler_evaluate",
+      "community": 1,
+      "norm_label": "evaluate()"
+    },
+    {
+      "label": "val()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L270",
+      "id": "linked_in_automation_linkedin_scheduler_val",
+      "community": 1,
+      "norm_label": "val()"
+    },
+    {
+      "label": "wait_for()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L274",
+      "id": "linked_in_automation_linkedin_scheduler_wait_for",
+      "community": 1,
+      "norm_label": "wait_for()"
+    },
+    {
+      "label": "fetch_scheduled_queue()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L286",
+      "id": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "community": 1,
+      "norm_label": "fetch_scheduled_queue()"
+    },
+    {
+      "label": "date_input_to_short()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L357",
+      "id": "linked_in_automation_linkedin_scheduler_date_input_to_short",
+      "community": 1,
+      "norm_label": "date_input_to_short()"
+    },
+    {
+      "label": "schedule_post()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L367",
+      "id": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "community": 1,
+      "norm_label": "schedule_post()"
+    },
+    {
+      "label": "verify_queue()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L554",
+      "id": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "community": 1,
+      "norm_label": "verify_queue()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L585",
+      "id": "linked_in_automation_linkedin_scheduler_main",
+      "community": 1,
+      "norm_label": "main()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_linkedin_scheduler_rationale_1",
+      "community": 1,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "Extract the .data.value from a WebBridge response.",
+      "file_type": "rationale",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L271",
+      "id": "linked_in_automation_linkedin_scheduler_rationale_271",
+      "community": 1,
+      "norm_label": "extract the .data.value from a webbridge response."
+    },
+    {
+      "label": "Poll until js_expr is truthy or timeout. Returns True/False.",
+      "file_type": "rationale",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L275",
+      "id": "linked_in_automation_linkedin_scheduler_rationale_275",
+      "community": 1,
+      "norm_label": "poll until js_expr is truthy or timeout. returns true/false."
+    },
+    {
+      "label": "Opens /sharing/compose, reads the left-panel scheduled list, returns     a set o",
+      "file_type": "rationale",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L287",
+      "id": "linked_in_automation_linkedin_scheduler_rationale_287",
+      "community": 1,
+      "norm_label": "opens /sharing/compose, reads the left-panel scheduled list, returns     a set o"
+    },
+    {
+      "label": "Re-reads the scheduled list and prints a verification table.",
+      "file_type": "rationale",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L555",
+      "id": "linked_in_automation_linkedin_scheduler_rationale_555",
+      "community": 1,
+      "norm_label": "re-reads the scheduled list and prints a verification table."
+    },
+    {
+      "label": "list_all_scheduled.py",
+      "file_type": "code",
+      "source_file": "list_all_scheduled.py",
+      "source_location": "L1",
+      "id": "list_all_scheduled_py",
+      "community": 44,
+      "norm_label": "list_all_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "list_all_scheduled.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_list_all_scheduled_cmd",
+      "community": 44,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "manage_scheduled.py",
+      "file_type": "code",
+      "source_file": "manage_scheduled.py",
+      "source_location": "L1",
+      "id": "manage_scheduled_py",
+      "community": 34,
+      "norm_label": "manage_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "manage_scheduled.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_manage_scheduled_cmd",
+      "community": 34,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "open_scheduled_modal.py",
+      "file_type": "code",
+      "source_file": "open_scheduled_modal.py",
+      "source_location": "L1",
+      "id": "open_scheduled_modal_py",
+      "community": 35,
+      "norm_label": "open_scheduled_modal.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "open_scheduled_modal.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_open_scheduled_modal_cmd",
+      "community": 35,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "post_now.py",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L1",
+      "id": "post_now_py",
+      "community": 4,
+      "norm_label": "post_now.py"
+    },
+    {
+      "label": "api_call()",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L40",
+      "id": "linked_in_automation_post_now_api_call",
+      "community": 4,
+      "norm_label": "api_call()"
+    },
+    {
+      "label": "cdp_eval()",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L53",
+      "id": "linked_in_automation_post_now_cdp_eval",
+      "community": 4,
+      "norm_label": "cdp_eval()"
+    },
+    {
+      "label": "find_ref_contain()",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L60",
+      "id": "linked_in_automation_post_now_find_ref_contain",
+      "community": 4,
+      "norm_label": "find_ref_contain()"
+    },
+    {
+      "label": "snapshot_tree()",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L76",
+      "id": "linked_in_automation_post_now_snapshot_tree",
+      "community": 4,
+      "norm_label": "snapshot_tree()"
+    },
+    {
+      "label": "post_now()",
+      "file_type": "code",
+      "source_file": "post_now.py",
+      "source_location": "L81",
+      "id": "linked_in_automation_post_now_post_now",
+      "community": 4,
+      "norm_label": "post_now()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "post_now.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_post_now_rationale_1",
+      "community": 4,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "post_oct10.py",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L1",
+      "id": "post_oct10_py",
+      "community": 5,
+      "norm_label": "post_oct10.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L38",
+      "id": "linked_in_automation_post_oct10_cmd",
+      "community": 5,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "val()",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L44",
+      "id": "linked_in_automation_post_oct10_val",
+      "community": 5,
+      "norm_label": "val()"
+    },
+    {
+      "label": "evaluate()",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L47",
+      "id": "linked_in_automation_post_oct10_evaluate",
+      "community": 5,
+      "norm_label": "evaluate()"
+    },
+    {
+      "label": "wait_for()",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L50",
+      "id": "linked_in_automation_post_oct10_wait_for",
+      "community": 5,
+      "norm_label": "wait_for()"
+    },
+    {
+      "label": "schedule_post()",
+      "file_type": "code",
+      "source_file": "post_oct10.py",
+      "source_location": "L58",
+      "id": "linked_in_automation_post_oct10_schedule_post",
+      "community": 5,
+      "norm_label": "schedule_post()"
+    },
+    {
+      "label": "Quick one-off post: October 10, 2026 at 6:00 PM",
+      "file_type": "rationale",
+      "source_file": "post_oct10.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_post_oct10_rationale_1",
+      "community": 5,
+      "norm_label": "quick one-off post: october 10, 2026 at 6:00 pm"
+    },
+    {
+      "label": "read_all_scheduled.py",
+      "file_type": "code",
+      "source_file": "read_all_scheduled.py",
+      "source_location": "L1",
+      "id": "read_all_scheduled_py",
+      "community": 45,
+      "norm_label": "read_all_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "read_all_scheduled.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_read_all_scheduled_cmd",
+      "community": 45,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "read_scheduled_tab.py",
+      "file_type": "code",
+      "source_file": "read_scheduled_tab.py",
+      "source_location": "L1",
+      "id": "read_scheduled_tab_py",
+      "community": 36,
+      "norm_label": "read_scheduled_tab.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "read_scheduled_tab.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_read_scheduled_tab_cmd",
+      "community": 36,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "read_scheduled_tab_verified.py",
+      "file_type": "code",
+      "source_file": "read_scheduled_tab_verified.py",
+      "source_location": "L1",
+      "id": "read_scheduled_tab_verified_py",
+      "community": 37,
+      "norm_label": "read_scheduled_tab_verified.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "read_scheduled_tab_verified.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_read_scheduled_tab_verified_cmd",
+      "community": 37,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "read_sidebar_scheduled.py",
+      "file_type": "code",
+      "source_file": "read_sidebar_scheduled.py",
+      "source_location": "L1",
+      "id": "read_sidebar_scheduled_py",
+      "community": 38,
+      "norm_label": "read_sidebar_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "read_sidebar_scheduled.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_read_sidebar_scheduled_cmd",
+      "community": 38,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "run_full_schedule.py",
+      "file_type": "code",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L1",
+      "id": "run_full_schedule_py",
+      "community": 8,
+      "norm_label": "run_full_schedule.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L219",
+      "id": "linked_in_automation_run_full_schedule_cmd",
+      "community": 8,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "wait_for_condition()",
+      "file_type": "code",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L225",
+      "id": "linked_in_automation_run_full_schedule_wait_for_condition",
+      "community": 8,
+      "norm_label": "wait_for_condition()"
+    },
+    {
+      "label": "schedule_single_post()",
+      "file_type": "code",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L234",
+      "id": "linked_in_automation_run_full_schedule_schedule_single_post",
+      "community": 8,
+      "norm_label": "schedule_single_post()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L393",
+      "id": "linked_in_automation_run_full_schedule_main",
+      "community": 8,
+      "norm_label": "main()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_run_full_schedule_rationale_1",
+      "community": 8,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "schedule_10_days.py",
+      "file_type": "code",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L1",
+      "id": "schedule_10_days_py",
+      "community": 9,
+      "norm_label": "schedule_10_days.py"
+    },
+    {
+      "label": "run_cmd()",
+      "file_type": "code",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L220",
+      "id": "linked_in_automation_schedule_10_days_run_cmd",
+      "community": 9,
+      "norm_label": "run_cmd()"
+    },
+    {
+      "label": "wait_for_condition()",
+      "file_type": "code",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L226",
+      "id": "linked_in_automation_schedule_10_days_wait_for_condition",
+      "community": 9,
+      "norm_label": "wait_for_condition()"
+    },
+    {
+      "label": "schedule_single_post()",
+      "file_type": "code",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L235",
+      "id": "linked_in_automation_schedule_10_days_schedule_single_post",
+      "community": 9,
+      "norm_label": "schedule_single_post()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L383",
+      "id": "linked_in_automation_schedule_10_days_main",
+      "community": 9,
+      "norm_label": "main()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_schedule_10_days_rationale_1",
+      "community": 9,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "schedule_oct10.py",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L1",
+      "id": "schedule_oct10_py",
+      "community": 6,
+      "norm_label": "schedule_oct10.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L49",
+      "id": "linked_in_automation_schedule_oct10_cmd",
+      "community": 6,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "val()",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L55",
+      "id": "linked_in_automation_schedule_oct10_val",
+      "community": 6,
+      "norm_label": "val()"
+    },
+    {
+      "label": "evaluate()",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L58",
+      "id": "linked_in_automation_schedule_oct10_evaluate",
+      "community": 6,
+      "norm_label": "evaluate()"
+    },
+    {
+      "label": "wait_for()",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L61",
+      "id": "linked_in_automation_schedule_oct10_wait_for",
+      "community": 6,
+      "norm_label": "wait_for()"
+    },
+    {
+      "label": "schedule_single()",
+      "file_type": "code",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L69",
+      "id": "linked_in_automation_schedule_oct10_schedule_single",
+      "community": 6,
+      "norm_label": "schedule_single()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_schedule_oct10_rationale_1",
+      "community": 6,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "schedule_oct10_now.py",
+      "file_type": "code",
+      "source_file": "schedule_oct10_now.py",
+      "source_location": "L1",
+      "id": "schedule_oct10_now_py",
+      "community": 46,
+      "norm_label": "schedule_oct10_now.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "schedule_oct10_now.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_schedule_oct10_now_cmd",
+      "community": 46,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "schedule_post.py",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L1",
+      "id": "schedule_post_py",
+      "community": 2,
+      "norm_label": "schedule_post.py"
+    },
+    {
+      "label": "normalize_date()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L40",
+      "id": "linked_in_automation_schedule_post_normalize_date",
+      "community": 2,
+      "norm_label": "normalize_date()"
+    },
+    {
+      "label": "normalize_time()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L58",
+      "id": "linked_in_automation_schedule_post_normalize_time",
+      "community": 2,
+      "norm_label": "normalize_time()"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L77",
+      "id": "linked_in_automation_schedule_post_cmd",
+      "community": 2,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "val()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L83",
+      "id": "linked_in_automation_schedule_post_val",
+      "community": 2,
+      "norm_label": "val()"
+    },
+    {
+      "label": "evaluate()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L86",
+      "id": "linked_in_automation_schedule_post_evaluate",
+      "community": 2,
+      "norm_label": "evaluate()"
+    },
+    {
+      "label": "wait_for()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L89",
+      "id": "linked_in_automation_schedule_post_wait_for",
+      "community": 2,
+      "norm_label": "wait_for()"
+    },
+    {
+      "label": "schedule_post()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L100",
+      "id": "linked_in_automation_schedule_post_schedule_post",
+      "community": 2,
+      "norm_label": "schedule_post()"
+    },
+    {
+      "label": "interactive_mode()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L286",
+      "id": "linked_in_automation_schedule_post_interactive_mode",
+      "community": 2,
+      "norm_label": "interactive_mode()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "schedule_post.py",
+      "source_location": "L355",
+      "id": "linked_in_automation_schedule_post_main",
+      "community": 2,
+      "norm_label": "main()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "schedule_post.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_schedule_post_rationale_1",
+      "community": 2,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "Parses various date formats and returns MM/DD/YYYY for LinkedIn.",
+      "file_type": "rationale",
+      "source_file": "schedule_post.py",
+      "source_location": "L41",
+      "id": "linked_in_automation_schedule_post_rationale_41",
+      "community": 2,
+      "norm_label": "parses various date formats and returns mm/dd/yyyy for linkedin."
+    },
+    {
+      "label": "Parses various time formats and returns H:MM AM/PM for LinkedIn.",
+      "file_type": "rationale",
+      "source_file": "schedule_post.py",
+      "source_location": "L59",
+      "id": "linked_in_automation_schedule_post_rationale_59",
+      "community": 2,
+      "norm_label": "parses various time formats and returns h:mm am/pm for linkedin."
+    },
+    {
+      "label": "schedule_remaining_direct.py",
+      "file_type": "code",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L1",
+      "id": "schedule_remaining_direct_py",
+      "community": 10,
+      "norm_label": "schedule_remaining_direct.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L79",
+      "id": "linked_in_automation_schedule_remaining_direct_cmd",
+      "community": 10,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "wait_for_condition()",
+      "file_type": "code",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L85",
+      "id": "linked_in_automation_schedule_remaining_direct_wait_for_condition",
+      "community": 10,
+      "norm_label": "wait_for_condition()"
+    },
+    {
+      "label": "schedule_direct()",
+      "file_type": "code",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L94",
+      "id": "linked_in_automation_schedule_remaining_direct_schedule_direct",
+      "community": 10,
+      "norm_label": "schedule_direct()"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L212",
+      "id": "linked_in_automation_schedule_remaining_direct_main",
+      "community": 10,
+      "norm_label": "main()"
+    },
+    {
+      "label": "================================================================================",
+      "file_type": "rationale",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L1",
+      "id": "linked_in_automation_schedule_remaining_direct_rationale_1",
+      "community": 10,
+      "norm_label": "================================================================================"
+    },
+    {
+      "label": "screenshot_scheduled.py",
+      "file_type": "code",
+      "source_file": "screenshot_scheduled.py",
+      "source_location": "L1",
+      "id": "screenshot_scheduled_py",
+      "community": 47,
+      "norm_label": "screenshot_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "screenshot_scheduled.py",
+      "source_location": "L9",
+      "id": "linked_in_automation_screenshot_scheduled_cmd",
+      "community": 47,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "scroll_all_scheduled.py",
+      "file_type": "code",
+      "source_file": "scroll_all_scheduled.py",
+      "source_location": "L1",
+      "id": "scroll_all_scheduled_py",
+      "community": 48,
+      "norm_label": "scroll_all_scheduled.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "scroll_all_scheduled.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_scroll_all_scheduled_cmd",
+      "community": 48,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "scroll_dialog.py",
+      "file_type": "code",
+      "source_file": "scroll_dialog.py",
+      "source_location": "L1",
+      "id": "scroll_dialog_py",
+      "community": 39,
+      "norm_label": "scroll_dialog.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "scroll_dialog.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_scroll_dialog_cmd",
+      "community": 39,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "set_date_time.py",
+      "file_type": "code",
+      "source_file": "set_date_time.py",
+      "source_location": "L1",
+      "id": "set_date_time_py",
+      "community": 40,
+      "norm_label": "set_date_time.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "set_date_time.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_set_date_time_cmd",
+      "community": 40,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "take_screenshot.py",
+      "file_type": "code",
+      "source_file": "take_screenshot.py",
+      "source_location": "L1",
+      "id": "take_screenshot_py",
+      "community": 49,
+      "norm_label": "take_screenshot.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "take_screenshot.py",
+      "source_location": "L9",
+      "id": "linked_in_automation_take_screenshot_cmd",
+      "community": 49,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_calendar_nav.py",
+      "file_type": "code",
+      "source_file": "test_calendar_nav.py",
+      "source_location": "L1",
+      "id": "test_calendar_nav_py",
+      "community": 50,
+      "norm_label": "test_calendar_nav.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_calendar_nav.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_calendar_nav_cmd",
+      "community": 50,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_clock_click.py",
+      "file_type": "code",
+      "source_file": "test_clock_click.py",
+      "source_location": "L1",
+      "id": "test_clock_click_py",
+      "community": 41,
+      "norm_label": "test_clock_click.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_clock_click.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_test_clock_click_cmd",
+      "community": 41,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_compose_page.py",
+      "file_type": "code",
+      "source_file": "test_compose_page.py",
+      "source_location": "L1",
+      "id": "test_compose_page_py",
+      "community": 51,
+      "norm_label": "test_compose_page.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_compose_page.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_compose_page_cmd",
+      "community": 51,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_direct_date.py",
+      "file_type": "code",
+      "source_file": "test_direct_date.py",
+      "source_location": "L1",
+      "id": "test_direct_date_py",
+      "community": 42,
+      "norm_label": "test_direct_date.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_direct_date.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_direct_date_cmd",
+      "community": 42,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_new_tab.py",
+      "file_type": "code",
+      "source_file": "test_new_tab.py",
+      "source_location": "L1",
+      "id": "test_new_tab_py",
+      "community": 43,
+      "norm_label": "test_new_tab.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_new_tab.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_test_new_tab_cmd",
+      "community": 43,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_next_month.py",
+      "file_type": "code",
+      "source_file": "test_next_month.py",
+      "source_location": "L1",
+      "id": "test_next_month_py",
+      "community": 52,
+      "norm_label": "test_next_month.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_next_month.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_next_month_cmd",
+      "community": 52,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_oct_select.py",
+      "file_type": "code",
+      "source_file": "test_oct_select.py",
+      "source_location": "L1",
+      "id": "test_oct_select_py",
+      "community": 53,
+      "norm_label": "test_oct_select.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_oct_select.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_oct_select_cmd",
+      "community": 53,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_open_list.py",
+      "file_type": "code",
+      "source_file": "test_open_list.py",
+      "source_location": "L1",
+      "id": "test_open_list_py",
+      "community": 54,
+      "norm_label": "test_open_list.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_open_list.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_open_list_cmd",
+      "community": 54,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_open_tab.py",
+      "file_type": "code",
+      "source_file": "test_open_tab.py",
+      "source_location": "L1",
+      "id": "test_open_tab_py",
+      "community": 55,
+      "norm_label": "test_open_tab.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_open_tab.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_test_open_tab_cmd",
+      "community": 55,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "test_schedule_oct.py",
+      "file_type": "code",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L1",
+      "id": "test_schedule_oct_py",
+      "community": 11,
+      "norm_label": "test_schedule_oct.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L8",
+      "id": "linked_in_automation_test_schedule_oct_cmd",
+      "community": 11,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "wait_for_condition()",
+      "file_type": "code",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L14",
+      "id": "linked_in_automation_test_schedule_oct_wait_for_condition",
+      "community": 11,
+      "norm_label": "wait_for_condition()"
+    },
+    {
+      "label": "schedule_post()",
+      "file_type": "code",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L23",
+      "id": "linked_in_automation_test_schedule_oct_schedule_post",
+      "community": 11,
+      "norm_label": "schedule_post()"
+    },
+    {
+      "label": "verify_oct10.py",
+      "file_type": "code",
+      "source_file": "verify_oct10.py",
+      "source_location": "L1",
+      "id": "verify_oct10_py",
+      "community": 56,
+      "norm_label": "verify_oct10.py"
+    },
+    {
+      "label": "cmd()",
+      "file_type": "code",
+      "source_file": "verify_oct10.py",
+      "source_location": "L6",
+      "id": "linked_in_automation_verify_oct10_cmd",
+      "community": 56,
+      "norm_label": "cmd()"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 0,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "\ud83e\udd16 LinkedIn Smart Scheduler \u2014 Auto-Post Automation via Chrome DevTools Protocol",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "community": 0,
+      "norm_label": "\ud83e\udd16 linkedin smart scheduler \u2014 auto-post automation via chrome devtools protocol"
+    },
+    {
+      "label": "\u2728 Features",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "id": "linked_in_automation_readme_features",
+      "community": 0,
+      "norm_label": "\u2728 features"
+    },
+    {
+      "label": "\ud83c\udfd7\ufe0f Architecture",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "id": "linked_in_automation_readme_architecture",
+      "community": 0,
+      "norm_label": "\ud83c\udfd7\ufe0f architecture"
+    },
+    {
+      "label": "code:block1 (schedule_post.py  /  linkedin_scheduler.py)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "id": "linked_in_automation_readme_codeblock_1",
+      "community": 0,
+      "norm_label": "code:block1 (schedule_post.py  /  linkedin_scheduler.py)"
+    },
+    {
+      "label": "Why React Native Setter?",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L42",
+      "id": "linked_in_automation_readme_why_react_native_setter",
+      "community": 0,
+      "norm_label": "why react native setter?"
+    },
+    {
+      "label": "code:python (nativeSetter = Object.getOwnPropertyDescriptor(HTMLInputElem)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L46",
+      "id": "linked_in_automation_readme_codeblock_2",
+      "community": 0,
+      "norm_label": "code:python (nativesetter = object.getownpropertydescriptor(htmlinputelem)"
+    },
+    {
+      "label": "\ud83d\ude80 Quick Start",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "id": "linked_in_automation_readme_quick_start",
+      "community": 0,
+      "norm_label": "\ud83d\ude80 quick start"
+    },
+    {
+      "label": "1. Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L58",
+      "id": "linked_in_automation_readme_1_prerequisites",
+      "community": 0,
+      "norm_label": "1. prerequisites"
+    },
+    {
+      "label": "2. Schedule Any Custom Post",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L65",
+      "id": "linked_in_automation_readme_2_schedule_any_custom_post",
+      "community": 0,
+      "norm_label": "2. schedule any custom post"
+    },
+    {
+      "label": "Option A: Interactive Mode (Recommended)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "id": "linked_in_automation_readme_option_a_interactive_mode_recommended",
+      "community": 0,
+      "norm_label": "option a: interactive mode (recommended)"
+    },
+    {
+      "label": "code:bash (python schedule_post.py)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L69",
+      "id": "linked_in_automation_readme_codeblock_3",
+      "community": 0,
+      "norm_label": "code:bash (python schedule_post.py)"
+    },
+    {
+      "label": "code:block4 (\ud83d\udcc5 Enter target date (e.g. 10/10/2026 or Oct 10, 2026): 10/15)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L73",
+      "id": "linked_in_automation_readme_codeblock_4",
+      "community": 0,
+      "norm_label": "code:block4 (\ud83d\udcc5 enter target date (e.g. 10/10/2026 or oct 10, 2026): 10/15)"
+    },
+    {
+      "label": "Option B: One-Liner CLI Arguments",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L81",
+      "id": "linked_in_automation_readme_option_b_one_liner_cli_arguments",
+      "community": 0,
+      "norm_label": "option b: one-liner cli arguments"
+    },
+    {
+      "label": "code:bash (# Pass text directly:)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L82",
+      "id": "linked_in_automation_readme_codeblock_5",
+      "community": 0,
+      "norm_label": "code:bash (# pass text directly:)"
+    },
+    {
+      "label": "3. Run the Automated 11-Day Campaign",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L90",
+      "id": "linked_in_automation_readme_3_run_the_automated_11_day_campaign",
+      "community": 0,
+      "norm_label": "3. run the automated 11-day campaign"
+    },
+    {
+      "label": "code:bash (python linkedin_scheduler.py)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L91",
+      "id": "linked_in_automation_readme_codeblock_6",
+      "community": 0,
+      "norm_label": "code:bash (python linkedin_scheduler.py)"
+    },
+    {
+      "label": "\ud83d\udcc5 Campaign Schedule (Sep 28 \u2013 Oct 10, 2026)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L97",
+      "id": "linked_in_automation_readme_campaign_schedule_sep_28_oct_10_2026",
+      "community": 0,
+      "norm_label": "\ud83d\udcc5 campaign schedule (sep 28 \u2013 oct 10, 2026)"
+    },
+    {
+      "label": "\ud83d\udcc2 Repository Structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L115",
+      "id": "linked_in_automation_readme_repository_structure",
+      "community": 0,
+      "norm_label": "\ud83d\udcc2 repository structure"
+    },
+    {
+      "label": "\ud83d\udc64 Author",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L128",
+      "id": "linked_in_automation_readme_author",
+      "community": 0,
+      "norm_label": "\ud83d\udc64 author"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "cdp_get_schedule.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "cdp_get_schedule_py",
+      "target": "linked_in_automation_cdp_get_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "check_schedule_now.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "check_schedule_now_py",
+      "target": "linked_in_automation_check_schedule_now_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "check_selected.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "check_selected_py",
+      "target": "linked_in_automation_check_selected_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "check_session.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "check_session_py",
+      "target": "linked_in_automation_check_session_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "click_11_badge.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "click_11_badge_py",
+      "target": "linked_in_automation_click_11_badge_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "click_scheduled_tab.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "click_scheduled_tab_py",
+      "target": "linked_in_automation_click_scheduled_tab_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "click_schedule_native.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "click_schedule_native_py",
+      "target": "linked_in_automation_click_schedule_native_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "confirm_schedule.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "confirm_schedule_py",
+      "target": "linked_in_automation_confirm_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "debug_clock_btn_py",
+      "target": "linked_in_automation_debug_clock_btn_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "debug_clock_btn_py",
+      "target": "linked_in_automation_debug_clock_btn_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "debug_clock_btn_py",
+      "target": "linked_in_automation_debug_clock_btn_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "debug_clock_btn_py",
+      "target": "linked_in_automation_debug_clock_btn_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_debug_clock_btn_rationale_1",
+      "target": "debug_clock_btn_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "linked_in_automation_debug_clock_btn_evaluate",
+      "target": "linked_in_automation_debug_clock_btn_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "linked_in_automation_debug_clock_btn_wait_for",
+      "target": "linked_in_automation_debug_clock_btn_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_clock_btn.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "linked_in_automation_debug_clock_btn_wait_for",
+      "target": "linked_in_automation_debug_clock_btn_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_day5.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "debug_day5_py",
+      "target": "linked_in_automation_debug_day5_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_day5.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "debug_day5_py",
+      "target": "linked_in_automation_debug_day5_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_day5.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "linked_in_automation_debug_day5_wait_for_condition",
+      "target": "linked_in_automation_debug_day5_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_day5_state.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "debug_day5_state_py",
+      "target": "linked_in_automation_debug_day5_state_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_inputs.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "debug_inputs_py",
+      "target": "linked_in_automation_debug_inputs_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "debug_picker.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "debug_picker_py",
+      "target": "linked_in_automation_debug_picker_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "dump_scheduled.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "dump_scheduled_py",
+      "target": "linked_in_automation_dump_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "execute_oct10_complete.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "execute_oct10_complete_py",
+      "target": "linked_in_automation_execute_oct10_complete_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "find_editor_and_post.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "find_editor_and_post_py",
+      "target": "linked_in_automation_find_editor_and_post_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "find_scheduled_tab.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "find_scheduled_tab_py",
+      "target": "linked_in_automation_find_scheduled_tab_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "get_full_schedule.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "get_full_schedule_py",
+      "target": "linked_in_automation_get_full_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "inspect_delete_buttons.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "inspect_delete_buttons_py",
+      "target": "linked_in_automation_inspect_delete_buttons_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "inspect_dialog.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "inspect_dialog_py",
+      "target": "linked_in_automation_inspect_dialog_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "inspect_modal_btns.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "inspect_modal_btns_py",
+      "target": "linked_in_automation_inspect_modal_btns_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "inspect_pickers.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "inspect_pickers_py",
+      "target": "linked_in_automation_inspect_pickers_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "inspect_scheduled.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "inspect_scheduled_py",
+      "target": "linked_in_automation_inspect_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "linkedin_automation_py",
+      "target": "linked_in_automation_linkedin_automation_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "linkedin_automation_py",
+      "target": "linked_in_automation_linkedin_automation_cdp_eval",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "linkedin_automation_py",
+      "target": "linked_in_automation_linkedin_automation_cdp_mouse_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "linkedin_automation_py",
+      "target": "linked_in_automation_linkedin_automation_find_ref_contain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L80",
+      "weight": 1.0,
+      "source": "linkedin_automation_py",
+      "target": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_1",
+      "target": "linkedin_automation_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_cdp_eval",
+      "target": "linked_in_automation_linkedin_automation_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_cdp_mouse_click",
+      "target": "linked_in_automation_linkedin_automation_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "target": "linked_in_automation_linkedin_automation_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_45",
+      "target": "linked_in_automation_linkedin_automation_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "target": "linked_in_automation_linkedin_automation_cdp_eval",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_52",
+      "target": "linked_in_automation_linkedin_automation_cdp_eval",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L145",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "target": "linked_in_automation_linkedin_automation_cdp_mouse_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_57",
+      "target": "linked_in_automation_linkedin_automation_cdp_mouse_click",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "target": "linked_in_automation_linkedin_automation_find_ref_contain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_65",
+      "target": "linked_in_automation_linkedin_automation_find_ref_contain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_automation.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_automation_rationale_81",
+      "target": "linked_in_automation_linkedin_automation_schedule_linkedin_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L261",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L267",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L270",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L274",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L286",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L357",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_date_input_to_short",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L367",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L554",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L585",
+      "weight": 1.0,
+      "source": "linkedin_scheduler_py",
+      "target": "linked_in_automation_linkedin_scheduler_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_rationale_1",
+      "target": "linkedin_scheduler_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L268",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_evaluate",
+      "target": "linked_in_automation_linkedin_scheduler_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L293",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "target": "linked_in_automation_linkedin_scheduler_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L382",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "target": "linked_in_automation_linkedin_scheduler_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_wait_for",
+      "target": "linked_in_automation_linkedin_scheduler_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L297",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "target": "linked_in_automation_linkedin_scheduler_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L384",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "target": "linked_in_automation_linkedin_scheduler_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L278",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_wait_for",
+      "target": "linked_in_automation_linkedin_scheduler_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L297",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "target": "linked_in_automation_linkedin_scheduler_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L384",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "target": "linked_in_automation_linkedin_scheduler_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L271",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_rationale_271",
+      "target": "linked_in_automation_linkedin_scheduler_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L401",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "target": "linked_in_automation_linkedin_scheduler_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L275",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_rationale_275",
+      "target": "linked_in_automation_linkedin_scheduler_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L557",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "target": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L591",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_main",
+      "target": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L287",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_rationale_287",
+      "target": "linked_in_automation_linkedin_scheduler_fetch_scheduled_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L567",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "target": "linked_in_automation_linkedin_scheduler_date_input_to_short",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L599",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_main",
+      "target": "linked_in_automation_linkedin_scheduler_date_input_to_short",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L609",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_main",
+      "target": "linked_in_automation_linkedin_scheduler_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L630",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_main",
+      "target": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "linkedin_scheduler.py",
+      "source_location": "L555",
+      "weight": 1.0,
+      "source": "linked_in_automation_linkedin_scheduler_rationale_555",
+      "target": "linked_in_automation_linkedin_scheduler_verify_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "list_all_scheduled.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "list_all_scheduled_py",
+      "target": "linked_in_automation_list_all_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manage_scheduled.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "manage_scheduled_py",
+      "target": "linked_in_automation_manage_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "open_scheduled_modal.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "open_scheduled_modal_py",
+      "target": "linked_in_automation_open_scheduled_modal_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "post_now_py",
+      "target": "linked_in_automation_post_now_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "post_now_py",
+      "target": "linked_in_automation_post_now_cdp_eval",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L60",
+      "weight": 1.0,
+      "source": "post_now_py",
+      "target": "linked_in_automation_post_now_find_ref_contain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L76",
+      "weight": 1.0,
+      "source": "post_now_py",
+      "target": "linked_in_automation_post_now_snapshot_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "post_now_py",
+      "target": "linked_in_automation_post_now_post_now",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_rationale_1",
+      "target": "post_now_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L54",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_cdp_eval",
+      "target": "linked_in_automation_post_now_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_snapshot_tree",
+      "target": "linked_in_automation_post_now_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_post_now",
+      "target": "linked_in_automation_post_now_api_call",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_post_now",
+      "target": "linked_in_automation_post_now_cdp_eval",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_post_now",
+      "target": "linked_in_automation_post_now_find_ref_contain",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_now.py",
+      "source_location": "L111",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_now_post_now",
+      "target": "linked_in_automation_post_now_snapshot_tree",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "post_oct10_py",
+      "target": "linked_in_automation_post_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "post_oct10_py",
+      "target": "linked_in_automation_post_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "post_oct10_py",
+      "target": "linked_in_automation_post_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "post_oct10_py",
+      "target": "linked_in_automation_post_oct10_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "post_oct10_py",
+      "target": "linked_in_automation_post_oct10_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_rationale_1",
+      "target": "post_oct10_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_evaluate",
+      "target": "linked_in_automation_post_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_schedule_post",
+      "target": "linked_in_automation_post_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_wait_for",
+      "target": "linked_in_automation_post_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_schedule_post",
+      "target": "linked_in_automation_post_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_wait_for",
+      "target": "linked_in_automation_post_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_schedule_post",
+      "target": "linked_in_automation_post_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "post_oct10.py",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "linked_in_automation_post_oct10_schedule_post",
+      "target": "linked_in_automation_post_oct10_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "read_all_scheduled.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "read_all_scheduled_py",
+      "target": "linked_in_automation_read_all_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "read_scheduled_tab.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "read_scheduled_tab_py",
+      "target": "linked_in_automation_read_scheduled_tab_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "read_scheduled_tab_verified.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "read_scheduled_tab_verified_py",
+      "target": "linked_in_automation_read_scheduled_tab_verified_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "read_sidebar_scheduled.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "read_sidebar_scheduled_py",
+      "target": "linked_in_automation_read_sidebar_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L219",
+      "weight": 1.0,
+      "source": "run_full_schedule_py",
+      "target": "linked_in_automation_run_full_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L225",
+      "weight": 1.0,
+      "source": "run_full_schedule_py",
+      "target": "linked_in_automation_run_full_schedule_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "run_full_schedule_py",
+      "target": "linked_in_automation_run_full_schedule_schedule_single_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L393",
+      "weight": 1.0,
+      "source": "run_full_schedule_py",
+      "target": "linked_in_automation_run_full_schedule_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_run_full_schedule_rationale_1",
+      "target": "run_full_schedule_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L228",
+      "weight": 1.0,
+      "source": "linked_in_automation_run_full_schedule_wait_for_condition",
+      "target": "linked_in_automation_run_full_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L249",
+      "weight": 1.0,
+      "source": "linked_in_automation_run_full_schedule_schedule_single_post",
+      "target": "linked_in_automation_run_full_schedule_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L259",
+      "weight": 1.0,
+      "source": "linked_in_automation_run_full_schedule_schedule_single_post",
+      "target": "linked_in_automation_run_full_schedule_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "run_full_schedule.py",
+      "source_location": "L405",
+      "weight": 1.0,
+      "source": "linked_in_automation_run_full_schedule_main",
+      "target": "linked_in_automation_run_full_schedule_schedule_single_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "schedule_10_days_py",
+      "target": "linked_in_automation_schedule_10_days_run_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L226",
+      "weight": 1.0,
+      "source": "schedule_10_days_py",
+      "target": "linked_in_automation_schedule_10_days_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "schedule_10_days_py",
+      "target": "linked_in_automation_schedule_10_days_schedule_single_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L383",
+      "weight": 1.0,
+      "source": "schedule_10_days_py",
+      "target": "linked_in_automation_schedule_10_days_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_rationale_1",
+      "target": "schedule_10_days_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L229",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_wait_for_condition",
+      "target": "linked_in_automation_schedule_10_days_run_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_schedule_single_post",
+      "target": "linked_in_automation_schedule_10_days_run_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L399",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_main",
+      "target": "linked_in_automation_schedule_10_days_run_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L264",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_schedule_single_post",
+      "target": "linked_in_automation_schedule_10_days_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_10_days.py",
+      "source_location": "L411",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_10_days_main",
+      "target": "linked_in_automation_schedule_10_days_schedule_single_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "schedule_oct10_py",
+      "target": "linked_in_automation_schedule_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "schedule_oct10_py",
+      "target": "linked_in_automation_schedule_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "schedule_oct10_py",
+      "target": "linked_in_automation_schedule_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "schedule_oct10_py",
+      "target": "linked_in_automation_schedule_oct10_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "schedule_oct10_py",
+      "target": "linked_in_automation_schedule_oct10_schedule_single",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_rationale_1",
+      "target": "schedule_oct10_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_evaluate",
+      "target": "linked_in_automation_schedule_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_schedule_single",
+      "target": "linked_in_automation_schedule_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_wait_for",
+      "target": "linked_in_automation_schedule_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_schedule_single",
+      "target": "linked_in_automation_schedule_oct10_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_wait_for",
+      "target": "linked_in_automation_schedule_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_schedule_single",
+      "target": "linked_in_automation_schedule_oct10_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10.py",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_oct10_schedule_single",
+      "target": "linked_in_automation_schedule_oct10_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_oct10_now.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "schedule_oct10_now_py",
+      "target": "linked_in_automation_schedule_oct10_now_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_normalize_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_normalize_time",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L89",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L100",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L286",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_interactive_mode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L355",
+      "weight": 1.0,
+      "source": "schedule_post_py",
+      "target": "linked_in_automation_schedule_post_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_rationale_1",
+      "target": "schedule_post_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_normalize_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L339",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_interactive_mode",
+      "target": "linked_in_automation_schedule_post_normalize_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_rationale_41",
+      "target": "linked_in_automation_schedule_post_normalize_date",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L102",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_normalize_time",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L340",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_interactive_mode",
+      "target": "linked_in_automation_schedule_post_normalize_time",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_rationale_59",
+      "target": "linked_in_automation_schedule_post_normalize_time",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L87",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_evaluate",
+      "target": "linked_in_automation_schedule_post_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_wait_for",
+      "target": "linked_in_automation_schedule_post_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_val",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_wait_for",
+      "target": "linked_in_automation_schedule_post_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_evaluate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_schedule_post",
+      "target": "linked_in_automation_schedule_post_wait_for",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L348",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_interactive_mode",
+      "target": "linked_in_automation_schedule_post_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L370",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_main",
+      "target": "linked_in_automation_schedule_post_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_post.py",
+      "source_location": "L375",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_post_main",
+      "target": "linked_in_automation_schedule_post_interactive_mode",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L79",
+      "weight": 1.0,
+      "source": "schedule_remaining_direct_py",
+      "target": "linked_in_automation_schedule_remaining_direct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "schedule_remaining_direct_py",
+      "target": "linked_in_automation_schedule_remaining_direct_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L94",
+      "weight": 1.0,
+      "source": "schedule_remaining_direct_py",
+      "target": "linked_in_automation_schedule_remaining_direct_schedule_direct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L212",
+      "weight": 1.0,
+      "source": "schedule_remaining_direct_py",
+      "target": "linked_in_automation_schedule_remaining_direct_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_remaining_direct_rationale_1",
+      "target": "schedule_remaining_direct_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_remaining_direct_wait_for_condition",
+      "target": "linked_in_automation_schedule_remaining_direct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_remaining_direct_schedule_direct",
+      "target": "linked_in_automation_schedule_remaining_direct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_remaining_direct_schedule_direct",
+      "target": "linked_in_automation_schedule_remaining_direct_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "schedule_remaining_direct.py",
+      "source_location": "L220",
+      "weight": 1.0,
+      "source": "linked_in_automation_schedule_remaining_direct_main",
+      "target": "linked_in_automation_schedule_remaining_direct_schedule_direct",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "screenshot_scheduled.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "screenshot_scheduled_py",
+      "target": "linked_in_automation_screenshot_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scroll_all_scheduled.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scroll_all_scheduled_py",
+      "target": "linked_in_automation_scroll_all_scheduled_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "scroll_dialog.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scroll_dialog_py",
+      "target": "linked_in_automation_scroll_dialog_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "set_date_time.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "set_date_time_py",
+      "target": "linked_in_automation_set_date_time_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "take_screenshot.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "take_screenshot_py",
+      "target": "linked_in_automation_take_screenshot_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_calendar_nav.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_calendar_nav_py",
+      "target": "linked_in_automation_test_calendar_nav_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_clock_click.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "test_clock_click_py",
+      "target": "linked_in_automation_test_clock_click_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_compose_page.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_compose_page_py",
+      "target": "linked_in_automation_test_compose_page_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_direct_date.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_direct_date_py",
+      "target": "linked_in_automation_test_direct_date_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_new_tab.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "test_new_tab_py",
+      "target": "linked_in_automation_test_new_tab_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_next_month.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_next_month_py",
+      "target": "linked_in_automation_test_next_month_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_oct_select.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_oct_select_py",
+      "target": "linked_in_automation_test_oct_select_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_open_list.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_open_list_py",
+      "target": "linked_in_automation_test_open_list_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_open_tab.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "test_open_tab_py",
+      "target": "linked_in_automation_test_open_tab_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "test_schedule_oct_py",
+      "target": "linked_in_automation_test_schedule_oct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "test_schedule_oct_py",
+      "target": "linked_in_automation_test_schedule_oct_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "test_schedule_oct_py",
+      "target": "linked_in_automation_test_schedule_oct_schedule_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "linked_in_automation_test_schedule_oct_wait_for_condition",
+      "target": "linked_in_automation_test_schedule_oct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "linked_in_automation_test_schedule_oct_schedule_post",
+      "target": "linked_in_automation_test_schedule_oct_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "test_schedule_oct.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "linked_in_automation_test_schedule_oct_schedule_post",
+      "target": "linked_in_automation_test_schedule_oct_wait_for_condition",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "verify_oct10.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "verify_oct10_py",
+      "target": "linked_in_automation_verify_oct10_cmd",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_architecture",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L56",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_quick_start",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_campaign_schedule_sep_28_oct_10_2026",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_repository_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_linkedin_smart_scheduler_auto_post_automation_via_chrome_devtools_protocol",
+      "target": "linked_in_automation_readme_author",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_architecture",
+      "target": "linked_in_automation_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_architecture",
+      "target": "linked_in_automation_readme_why_react_native_setter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_why_react_native_setter",
+      "target": "linked_in_automation_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_quick_start",
+      "target": "linked_in_automation_readme_1_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_quick_start",
+      "target": "linked_in_automation_readme_2_schedule_any_custom_post",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L90",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_quick_start",
+      "target": "linked_in_automation_readme_3_run_the_automated_11_day_campaign",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L67",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_2_schedule_any_custom_post",
+      "target": "linked_in_automation_readme_option_a_interactive_mode_recommended",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_2_schedule_any_custom_post",
+      "target": "linked_in_automation_readme_option_b_one_liner_cli_arguments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L69",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_option_a_interactive_mode_recommended",
+      "target": "linked_in_automation_readme_codeblock_3",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_option_a_interactive_mode_recommended",
+      "target": "linked_in_automation_readme_codeblock_4",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_option_b_one_liner_cli_arguments",
+      "target": "linked_in_automation_readme_codeblock_5",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L91",
+      "weight": 1.0,
+      "source": "linked_in_automation_readme_3_run_the_automated_11_day_campaign",
+      "target": "linked_in_automation_readme_codeblock_6",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "8d4b9c86d4bc4796399ddf26d3b104414fbe2727"
+}
